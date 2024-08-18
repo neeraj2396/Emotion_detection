@@ -1,2 +1,2 @@
 # Emotion_detection
-Emotion detection using machine leraning
+Emotion detection using machine learning
